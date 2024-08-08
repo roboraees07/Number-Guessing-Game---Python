@@ -26,3 +26,15 @@ This is a simple command-line number guessing game written in Python. The progra
 
 ## Example
 
+Enter Lower bound:- 1
+Enter Upper bound:- 100
+You've only 7 chances to guess the integer!
+
+Guess a number:- 50
+You guessed too small!
+
+Guess a number:- 75
+You guessed too high!
+
+Guess a number:- 63
+Congratulations you did it in 3 tries!
