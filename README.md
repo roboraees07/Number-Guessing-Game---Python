@@ -38,3 +38,18 @@ You guessed too high!
 
 Guess a number:- 63
 Congratulations you did it in 3 tries!
+
+
+## Requirements
+
+- Python 3.x
+
+## Installation
+
+Clone the repository and run the script using Python:
+
+```bash
+git clone https://github.com/roboraees07/number-guessing-game.git
+cd number-guessing-game
+python guess_number.py
+
